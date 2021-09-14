@@ -1,0 +1,19 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    height: 100vh;
+    background-image: linear-gradient(to right, #f7516f, #fed892);
+}
+
+.main-container {
+    margin: 4vmax 0;
+}
+
+.mynames {
+    font-weight: 500;
+}
+
+.link-tree {
+    font-weight: 500;
+    font-size: 1.125rem;
+    box-shadow: 2px 5px 5px rgba(52, 58, 64, 0.7);
+}
